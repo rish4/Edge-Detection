@@ -1,2 +1,2 @@
 # Edge-Detection
-Edge Detection using OpenCV for Image Processing
+Real time Edge Detection using OpenCV for Image Processing
